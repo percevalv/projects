@@ -1,5 +1,3 @@
 projects
 ========
-ver cambios
-ver cambios2
-ver cambios3
+dejar vacío y empezar
